@@ -1,0 +1,12 @@
+[submodule "Project/Project3Task0"]
+	path = Project/Project3Task0
+	url = https://github.com/PaulCruso/95702-distributed-system.git
+[submodule "Project/Project3Task1"]
+	path = Project/Project3Task1
+	url = https://github.com/PaulCruso/95702-distributed-system.git
+[submodule "Project/Project3Task2"]
+	path = Project/Project3Task2
+	url = https://github.com/PaulCruso/95702-distributed-system.git
+[submodule "Project/Project4Task1"]
+	path = Project/Project4Task1
+	url = https://github.com/PaulCruso/95702-distributed-system.git
