@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ds.edu.hearthstoneandriodapp-mergeDebugResources-29:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lx\\.gradle\\caches\\transforms-3\\83c5950357143db168b5a1ccbc1acb2a\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

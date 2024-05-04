@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ds.edu.hearthstoneandriodapp-mergeDebugResources-29:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lx\\.gradle\\caches\\transforms-3\\83c5950357143db168b5a1ccbc1acb2a\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
